@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>fontawesome-webfont.ttf</file>
+        <file>LogInPage.qml</file>
+        <file>MainMenu.qml</file>
+        <file>MenuAdd.qml</file>
+        <file>MenuAnalitic.qml</file>
+        <file>CustomBorder.qml</file>
+        <file>Roboto-Medium.ttf</file>
+        <file>GlobalVariables.js</file>
+        <file>CardRecordDay.qml</file>
+        <file>ItemDecl.qml</file>
+        <file>Tmb.qml</file>
+        <file>QChart.js</file>
+        <file>QChart.qml</file>
+        <file>QChartGallery.js</file>
+        <file>QChartGallery.qml</file>
+        <file>MenuAnalis.qml</file>
+        <file>MenuAnalis2.qml</file>
+        <file>Image/icon.png</file>
+        <file>button/BtnAdd.qml</file>
+        <file>button/ButtonNavigationForm.qml</file>
+        <file>button/CButton.qml</file>
+        <file>button/MButton.qml</file>
+        <file>AllStat.qml</file>
+    </qresource>
+</RCC>
